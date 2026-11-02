@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🐞 Bug ou ideia para a plataforma RoboStage
+    url: https://github.com/ohthias/roboStage/issues/new/choose
+    about: Problemas no robostage.com.br (não na documentação) vão para o repositório principal.
+  - name: 🔒 Problema de segurança
+    url: https://github.com/ohthias/roboStage/blob/main/.github/SECURITY.md
+    about: Não abra issue pública. Use o Private Vulnerability Reporting.
